@@ -1,2 +1,2 @@
-# projeto-angular-loja-DIO
-Rascunho de criação de site usando o Angular.
+# Projeto Angular
+Este projeto tm o intuito de servir como avaliação de curso da plataforma DIO.
